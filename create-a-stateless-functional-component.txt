@@ -1,0 +1,12 @@
+** start of index.jsx **
+
+const MyComponent = function() {
+  // Change code below this line
+  return(
+ <div>Challange complete</div>
+  );
+  // Change code above this line
+}
+
+** end of index.jsx **
+
